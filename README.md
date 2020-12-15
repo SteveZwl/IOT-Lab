@@ -34,7 +34,7 @@ Lab 5
 
 ![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5.jpg)
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5 (1).jpg)
+![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5%EF%BC%881%EF%BC%89.png)
 
 Lab 6
 
