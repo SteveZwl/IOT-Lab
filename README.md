@@ -32,9 +32,9 @@ Lab 5
 
 2.Build and run new image from Dockerfile
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5.png)
+![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5.jpg)
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5(1).png)
+![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5 (1).jpg)
 
 Lab 6
 
