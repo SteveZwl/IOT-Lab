@@ -22,9 +22,9 @@ Lab 3
 
 1.On Windows, download and install the latest version of Python 3
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab3.png)
+![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab3.jpg)
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab3(1).png)
+![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab3.(1).png)
 
 Lab 5
 
