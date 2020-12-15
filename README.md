@@ -16,9 +16,7 @@ Lab 2
 
 2.Serial loopback test
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab2.png)
-
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab2(1).png)
+![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab2.jpg)
 
 Lab 3
 
