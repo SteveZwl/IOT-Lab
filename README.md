@@ -16,15 +16,15 @@ Lab 2
 
 2.Serial loopback test
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab2.jpg)
+![3](https://github.com/SteveZwl/IOT-Lab/blob/main/lab2.jpg)
 
 Lab 3
 
 1.On Windows, download and install the latest version of Python 3
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab3.jpg)
+![4](https://github.com/SteveZwl/IOT-Lab/blob/main/lab3.jpg)
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab3.(1).png)
+![5](https://github.com/SteveZwl/IOT-Lab/blob/main/lab3.(1).png)
 
 Lab 5
 
@@ -32,9 +32,9 @@ Lab 5
 
 2.Build and run new image from Dockerfile
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5.jpg)
+![6](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5.jpg)
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5%EF%BC%881%EF%BC%89.png)
+![7](https://github.com/SteveZwl/IOT-Lab/blob/main/lab5%EF%BC%881%EF%BC%89.png)
 
 Lab 6
 
@@ -42,14 +42,14 @@ Sign up and log in Particle
 
 Install the Particle-Agent on Raspberry Pi, log in the Particle account, and claim Raspberry Pi to the Particle account
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab6.png)
+![8](https://github.com/SteveZwl/IOT-Lab/blob/main/lab6.png)
 
 Download, install, and open Particle Mobile App on a smartphone
 Log in Particle account and select Raspberry Pi
 HIGH or LOW to toggle the green activity LED
 Alternately, install  on a laptop 
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab6(1).png)
+![9](https://github.com/SteveZwl/IOT-Lab/blob/main/lab6(1).png)
 
 Lab 7
 
@@ -57,7 +57,7 @@ Sign up and log in ThingSpeak
 Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
 Copy the Write API Key from channels
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab7.png)
+![10](https://github.com/SteveZwl/IOT-Lab/blob/main/lab7.png)
 
 Review and run thingspeak_feed.py
 
@@ -65,18 +65,18 @@ Lab 8
 
 On Windows, open Git Bash and install Python packages as follows
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab8.png)
+![11](https://github.com/SteveZwl/IOT-Lab/blob/main/lab8.png)
 
 Data Analysis
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab8(1).png)
+![12](https://github.com/SteveZwl/IOT-Lab/blob/main/lab8(1).png)
 
 Lab 9
 
 Install and run pyang on a Raspberry Pi
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab9.jpg)
+![13](https://github.com/SteveZwl/IOT-Lab/blob/main/lab9.jpg)
 
 Install and run GIMP and Pinta to display a PNG file via VNC Viewer
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab9(1).jpg)
+![14](https://github.com/SteveZwl/IOT-Lab/blob/main/lab9(1).jpg)
