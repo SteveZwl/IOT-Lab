@@ -75,7 +75,7 @@ Lab 9
 
 Install and run pyang on a Raspberry Pi
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab9.png)
+![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab9.jpg)
 
 Install and run GIMP and Pinta to display a PNG file via VNC Viewer
 
