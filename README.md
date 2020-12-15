@@ -79,4 +79,4 @@ Install and run pyang on a Raspberry Pi
 
 Install and run GIMP and Pinta to display a PNG file via VNC Viewer
 
-![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab9(1).png)
+![1](https://github.com/SteveZwl/IOT-Lab/blob/main/lab9(1).jpg)
